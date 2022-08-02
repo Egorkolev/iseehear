@@ -4,7 +4,7 @@ repo: iseehear # The name of this repository
 
 sites:
   - name: it-proger
-    url: http://127.0.0.1:8000
+    url: egorkolev.github.io.
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
